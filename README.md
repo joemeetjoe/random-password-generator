@@ -13,7 +13,12 @@ N/A
 
 ## Usage
 
-If you would like to use this project, please click on the link below:    
+If you would like to use this project, please click on the link below:   
+
+https://joemeetjoe.github.io/random-password-generator/
+
+![Screenshot Capture - 2022-12-22 - 19-38-22](https://user-images.githubusercontent.com/119348225/209248405-9f3eea2c-c743-49c8-94d5-356f79dfba27.png)
+
 
 
 
